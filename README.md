@@ -7,4 +7,4 @@
 <br>
 📫 How to reach me:  Hannahgallen@gmail.com
 <br>
-🔭 Portfolio: [Portfolio Link](https://hanniecodes.github.io/)
+🔭 Portfolio: [Portfolio Link](https://velvety-pithivier-33f5ed.netlify.app/)
